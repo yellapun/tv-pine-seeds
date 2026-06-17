@@ -1,0 +1,5 @@
+{
+  "initial_history_size": 100,
+  "max_bars_back": 1000,
+  "type": "Userdata"
+}
